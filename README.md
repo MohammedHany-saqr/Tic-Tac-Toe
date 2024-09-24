@@ -19,11 +19,11 @@ git clone https://github.com/<your-username>/tic-tac-toe-react.git</pre>
 <li>Install Dependencies:</li>
 <pre>Bash
 cd tic-tac-toe-react
-npm install<pre>
+npm install</pre>
 
 <li>Run the Application:</li>
 <pre>Bash
-npm run dev<pre>
+npm run dev</pre>
 </ol>
 
 This will start the development server and open the game in your browser, typically at http://localhost:3000/.
