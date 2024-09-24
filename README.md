@@ -2,7 +2,7 @@
 
 <h5>Experience the classic game of Tic-Tac-Toe, reimagined with the power of React.js and Next.js!</h5>
 
-<p>This repository provides a well-structured, interactive Tic-Tac-Toe game built with modern React concepts, hooks, and CSS styling. Whether you're a seasoned developer or just starting out, this project offers a fun and engaging opportunity to explore the latest React features.</p>
+<p>This project provides a well-structured, interactive Tic-Tac-Toe game built with modern React concepts, hooks, and CSS styling. Whether you're a seasoned developer or just starting out, this project offers a fun and engaging opportunity to explore the latest React features.</p>
 
 <h3>Key Features:</h3>
 <ul>
@@ -14,11 +14,11 @@
 <ol>
 <li>Clone the Repository:</li>
 <pre>Bash
-git clone https://github.com/<your-username>/tic-tac-toe-react.git</pre>
+git clone https://github.com/MohammedHany-saqr/Tic-Tac-Toe.git</pre>
 
 <li>Install Dependencies:</li>
 <pre>Bash
-cd tic-tac-toe-react
+cd tic-tac-toe
 npm install</pre>
 
 <li>Run the Application:</li>
