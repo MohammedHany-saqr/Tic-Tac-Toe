@@ -13,17 +13,14 @@
 <h3>Getting Started:</h3>
 <ol>
 <li>Clone the Repository:</li>
-<pre>Bash
-git clone https://github.com/MohammedHany-saqr/Tic-Tac-Toe.git</pre>
+<pre>git clone https://github.com/MohammedHany-saqr/Tic-Tac-Toe.git</pre>
 
 <li>Install Dependencies:</li>
-<pre>Bash
-cd tic-tac-toe
+<pre>cd tic-tac-toe
 npm install</pre>
 
 <li>Run the Application:</li>
-<pre>Bash
-npm run dev</pre>
+<pre>npm run dev</pre>
 </ol>
 
 This will start the development server and open the game in your browser, typically at http://localhost:3000/.
